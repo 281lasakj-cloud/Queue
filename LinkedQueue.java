@@ -16,7 +16,7 @@ public class LinkedQueue<T> implements QueueInterface<T>
         }
     }
 
-    public LogQueue()
+    public LinkedQueue()
     {
         front = null;
         back = null;
